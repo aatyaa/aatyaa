@@ -1,7 +1,7 @@
 ## Attia A. Gadallah
 
-Computational scientist in the Department of Materials Science and Engineering
-at Pennsylvania State University.
+Computational scientist at the Phases Research Lab.
+
 
 I develop the computational infrastructure that research results depend on: DFT
 workflows in VASP, machine-learning interatomic potentials validated against
