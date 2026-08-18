@@ -1,13 +1,13 @@
 ## Attia A. Gadallah
 
-Computational scientist at the Phases Research Lab.
+AI for science at the [Phases Research Lab](https://phaseslab.com/attia) —
+machine learning applied to physical systems, and the verification that makes
+the results usable.
 
-
-I develop the computational infrastructure that research results depend on: DFT
-workflows in VASP, machine-learning interatomic potentials validated against
-first-principles reference data, phonon dispersion and dynamic-stability
-analysis, and Bayesian inference on black-hole ringdown posteriors — all running
-on national high-performance computing systems under SLURM.
+My work is the loop that AI for science runs on: machine-learning interatomic
+potentials for high-throughput screening, first-principles DFT for validation,
+and Bayesian inference on observational data — executed on national
+high-performance computing systems.
 
 ### Published
 
@@ -15,13 +15,14 @@ on national high-performance computing systems under SLURM.
 framework for automated VASP/Phonopy phonon and thermodynamic calculations in
 metal hydrides. v2.7.0 · `doi:10.5281/zenodo.20337121`
 
-### Research areas
+### What I work on
 
-- Computational materials discovery for hydrogen storage
-- Machine-learning interatomic potentials (MACE, MACE-MP)
-- Phonon dispersion and dynamic stability
-- Black-hole ringdown analysis and Bayesian inference
-- Computational reproducibility and verification tooling
+- Machine-learning interatomic potentials (MACE, MACE-MP), validated against DFT
+- Physics-informed modelling of materials and gravitational-wave data
+- Automated first-principles reference generation for training and validation
+- Bayesian inference and model comparison on observational posteriors
+- Verification tooling — reproducible pipelines, provenance tracking, and
+  automated checking of published values against their source data
 
 ### Manuscripts in preparation
 
@@ -30,7 +31,8 @@ metal hydrides. v2.7.0 · `doi:10.5281/zenodo.20337121`
 
 ---
 
-`Python` · `VASP` · `Phonopy` · `MACE` · `NumPy` · `SciPy` · `SLURM`
+`Python` · `MACE` · `VASP` · `Phonopy` · `NumPy` · `SciPy` · `SLURM` · `HPC`
 
-State College, PA · Open to research software engineering and computational
-science roles. Authorized to work in the United States for any employer.
+State College, PA · Open to AI-for-science, research software engineering and
+computational science roles. Authorized to work in the United States for any
+employer.
